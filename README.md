@@ -48,22 +48,23 @@ You are allowed six (6) incorrect guesses. On your seventh incorrect guess, the 
 ### Visual Game Example:
 
 ```js
-visual_example_list = ['AHAB', 'COUSTEAU', 'DAVOS', 'HOOK', 'KIDD', 'MAGELLAN', 'MOANA', 'POPEYE', 'ROSE', 'SINBAD', 'SPARROW', 'WILL']
+visualExampleList = ['AHAB', 'COUSTEAU', 'DAVOS', 'HOOK', 'KIDD', 'MAGELLAN', 
+                    'MOANA', 'POPEYE', 'ROSE', 'SINBAD', 'SPARROW', 'WILL']
 ```
 
 #### Game Start
-<img src="img/example_start.png" width="250">
+<img src="img/example_start.png" width="300">
 
 #### Game Over (Won) / Solution
-<img src="img/example_solution.png" width="250">
+<img src="img/example_solution.png" width="300">
 
 NOTE: The solution is shown in a simplified “clean” state without any incorrect guesses for the sake of clarity.
 
 #### In-Progress Game After 2 Incorrect Guesses
-<img src="img/example_2_incorrect.png" width="250">
+<img src="img/example_2_incorrect.png" width="300">
 
 #### Game Over (Lost)
-<img src="img/example_lost.png" width="250">  
+<img src="img/example_lost.png" width="300">  
 
 #### IMPORTANT NOTE:  
 NXT Battleship uses the American-style crossword puzzle rule that all letters are 'checked' - that is, each white cell that is abutted both vertically and horizontally by another white cell appears in both a word across and a word down. See the example below:
