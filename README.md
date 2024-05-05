@@ -2,6 +2,8 @@
 
 <h2 style="text-align: center;"> 🚢 🛟 Crew Overboard! 🛟 🚢 </h2>
 
+**LIVE DEMO:**
+<https://rbarcode.github.io/nxt-battleship/>
 
 NXT Battleship puts a novel spin on the classic game of Battleship<sup>TM</sup>. Rather than lob shells or shoot torpedoes at enemy ships unseen, your task is to throw out life preservers to the crew of the nautical NOETICA<sup>TM</sup>. 🛟 Each crew member will require as many life preservers as there are letters in their name.
 
